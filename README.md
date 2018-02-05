@@ -12,7 +12,7 @@ PB11(I2C2_SDA) | max30102 SDA
 PB12 | max30102 interrupt
 PC13 | led light
 
-1. The heart rate calculation way is not very good and takes up a lot ram. But it works, so...whatever.
+1. The heart rate calculation way is not very good and waste a lot ram. But it works, so...whatever.
 2. I use the infrared brightness data to calculate the heart rate, so if your fingers is cold, it can't work well. You can use the red light data to calculate by changing "sampleBuffTemp[i].iRed" to "sampleBuffTemp[i].Red" (line 221 and 238 in file max30102.c).
 3. The max30102 module I bought it from the internet. The pull-up resistors are connect to 1.8v. So if you encounter the same situation, just kick them off and pull-up those pin to 5v or 3.3v on the other way.
 
