@@ -30,3 +30,7 @@ Reference these two paper
 1. [血氧饱和度检测技术研究-方启超](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201302&filename=1013166432.nh&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEg1MXdhY3ZWejRHVGZ0NDFhZ3RyRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDkwMTFQclpFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtmWmVacUZDdmxXcnpJVkYyNkhiSytHTlg=) 
 2. [基于C8051F021单片机的脉搏血氧饱和度测量仪的研制](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2010&filename=2009213547.nh&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEg1MXdhY3ZWejRHVGZ0NDFhZ3RyRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTgxNzdick9WMTI3RjdHNUhkVElxSkViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZaZVpxRkN2bFY=)
 
+---
+
+callnowyeah@yeah.net
+
